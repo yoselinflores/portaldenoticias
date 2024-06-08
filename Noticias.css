@@ -1,0 +1,73 @@
+body {
+    background-color: white;
+  }
+  .slogan {
+    color: black;
+    font-size: smaller;
+  }
+  .btnsuscribir {
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+  }
+  .header_main {
+    background-color: white;
+    height: 80px;
+    justify-content: center;
+    color: rgb(197, 27, 27);
+    font-size: xx-large;
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    color: #6600ff;
+  }
+  .nav {
+    background-color: rgb(197, 27, 27);
+    height: 30px;
+  }
+  footer {
+    background-color: rgb(197, 27, 27);
+    color: #fff;
+  }
+  main {
+    background-color: white;
+    width: 900px;
+    overflow: scroll;
+  }
+  aside {
+    background-color: rgb(197, 27, 27);
+    width: 350px;
+    float: right;
+    margin-top: 10px;
+    color: #fff;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .div_general {
+    margin: auto;
+    display: flex;
+    text-align: center;
+  }
+  .tituloimg {
+    float: left;
+    text-align: center;
+  }
+  h2 {
+    float: right;
+  }
