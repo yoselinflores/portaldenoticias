@@ -1,0 +1,15 @@
+.container {
+    margin-top: 30px;
+  }
+  .titulo {
+    color: rgb(197, 27, 27);
+    text-align: left;
+    margin-top: 30px;
+  }
+  .tituloimg {
+    float: left;
+    text-align: center;
+  }
+  .buttonacp {
+    color: azure;
+  }

@@ -16,7 +16,7 @@ body {
     color: rgb(197, 27, 27);
     font-size: xx-large;
     font-family: "Times New Roman", Times, serif;
-    text-align: left;
+    text-align: center;
   }
   
   nav ul {
@@ -67,6 +67,7 @@ body {
   .tituloimg {
     float: left;
     text-align: center;
+    justify-content: center;
   }
   h2 {
     float: right;
